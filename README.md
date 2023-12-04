@@ -7,7 +7,8 @@ Error [MANAGER_DESTROYED]: Manager was destroyed.
 ```
 And if you're ratelimited, you should see something like :
 ```
-Preparing to connect to the gateway... Hit a 429 while executing a request.
+Preparing to connect to the gateway... 
+Hit a 429 while executing a request.
     Global : false
     Method : get
     Path : /gateway/bot
